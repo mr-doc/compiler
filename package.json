@@ -1,0 +1,34 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The official compiler for Mr. Doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-doc/compiler.git"
+  },
+  "author": "iwatakeshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr-doc/compiler/issues"
+  },
+  "homepage": "https://github.com/mr-doc/compiler#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb": "^6.0.0",
+    "eslint-plugin-react": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "json-stringify": "^1.0.0",
+    "mr-doc-utils": "^2.2.2"
+  }
+}
