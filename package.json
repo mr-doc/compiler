@@ -1,7 +1,6 @@
 {
-  "name": "compiler",
+  "name": "mr-doc-compiler",
   "version": "1.0.0",
-  "private": true,
   "description": "The official compiler for Mr. Doc",
   "main": "index.js",
   "scripts": {
