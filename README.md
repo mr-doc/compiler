@@ -1,6 +1,6 @@
 # Compiler
 
-[![Build Status](https://travis-ci.org/mr-doc/compiler.svg?branch=master)](https://travis-ci.org/mr-doc/compiler)
+[![Build Status](https://travis-ci.org/mr-doc/mr-doc-compiler.svg?branch=master)](https://travis-ci.org/mr-doc/mr-doc-compiler)
 
 This repo contains the source file for compiler. There are a few things to cover
 in order to understand how the compiler works.
